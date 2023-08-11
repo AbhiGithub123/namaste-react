@@ -1,0 +1,33 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This is namaste react tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhiGithub123/namaste-react.git"
+  },
+  "keywords": [
+    "abhishek",
+    "react"
+  ],
+  "author": "abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhiGithub123/namaste-react/issues"
+  },
+  "homepage": "https://github.com/AbhiGithub123/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
